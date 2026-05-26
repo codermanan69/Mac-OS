@@ -11,7 +11,7 @@ const Nav = () => {
                 </div>
 
                 <div className="nav-item">
-                    <p>Ankur Prajapati</p>
+                    <p>Manan Sahni</p>
                 </div>
 
                 <div className="nav-item">
